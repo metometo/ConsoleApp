@@ -10,8 +10,7 @@ namespace GitConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Отново");
-            Console.WriteLine("1232132");
+            Console.WriteLine("Здравей :)");
         }
     }
 }
