@@ -9,6 +9,6 @@ namespace GitConsoleApplication
     class Class1
     {
         int id;
-        string text2;
+        string text5;
     }
 }
