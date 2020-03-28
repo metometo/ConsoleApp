@@ -12,5 +12,6 @@ namespace GitConsoleApplication
         int id;
         int id2;
         string name;
+        int score;
     }
 }
