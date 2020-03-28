@@ -14,6 +14,5 @@ namespace GitConsoleApplication
         int age;
         int weight;
         string email;
-        string city;
     }
 }
