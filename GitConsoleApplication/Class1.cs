@@ -12,7 +12,7 @@ namespace GitConsoleApplication
         string name;
         int points;
         int age;
-        int weight;
         string email;
+        string city;
     }
 }
