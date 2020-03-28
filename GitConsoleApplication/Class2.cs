@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitConsoleApplication
 {
-    class Program
+    class Class2
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Отново");
-            Console.WriteLine("1232132");
-        }
+        int id3;
     }
 }
