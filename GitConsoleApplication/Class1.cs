@@ -11,5 +11,6 @@ namespace GitConsoleApplication
         int id;
         string text;
         string name;
+        string text5;
     }
 }
