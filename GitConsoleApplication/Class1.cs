@@ -8,11 +8,9 @@ namespace GitConsoleApplication
 {
     class Class1
     {
-        int id;
-        string name;
-<<<<<<< HEAD
-        string email;
-=======
->>>>>>> Ticket_3
+       int id;
+       string name;
+       string email;
+        double div;
     }
 }
