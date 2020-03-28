@@ -12,5 +12,6 @@ namespace GitConsoleApplication
        string name;
        string email;
         double div;
+        bool admin;
     }
 }
