@@ -10,9 +10,6 @@ namespace GitConsoleApplication
     {
         int id;
         string name;
-        int points;
-        int age;
         string email;
-        string city;
     }
 }
