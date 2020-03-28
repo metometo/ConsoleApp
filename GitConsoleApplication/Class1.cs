@@ -12,11 +12,8 @@ namespace GitConsoleApplication
         string name;
         int points;
         int age;
-<<<<<<< HEAD
         int weight;
-=======
         string email;
         string city;
->>>>>>> Ticket_3
     }
 }
