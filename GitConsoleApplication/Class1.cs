@@ -13,5 +13,6 @@ namespace GitConsoleApplication
         int points;
         int age;
         string email;
+        string city;
     }
 }
