@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitConsoleApplication
 {
-    class Class2
+    class Class1
     {
-        int id3;
-        int id;
-        int id2;
     }
 }
