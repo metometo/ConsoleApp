@@ -10,6 +10,9 @@ namespace GitConsoleApplication
     {
         int id;
         string name;
+<<<<<<< HEAD
         string email;
+=======
+>>>>>>> Ticket_3
     }
 }
